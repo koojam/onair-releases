@@ -6,6 +6,15 @@
     <description>Updates for On Air</description>
     <language>en</language>
     <item>
+      <title>On Air 1.3</title>
+      <pubDate>Mon, 19 Oct 2026 18:37:17 +0000</pubDate>
+      <sparkle:version>202610191435</sparkle:version>
+      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Live transcription shows in a dark glass bubble while you talk</li><li>Past takes are tucked away: tap the clock above the ON AIR sign to see your last 3</li><li>Notices now appear under the mic, yellow for info and red for problems</li><li>Clear Liquid Glass throughout</li></ul>]]></description>
+      <enclosure url="https://github.com/koojam/onair-releases/releases/download/v1.3/On-Air-1.3.dmg" sparkle:edSignature="TL4E+GftGqFZYiI9HST7kLmx4k7QWxZuy92mlpYp5eBz6nEbxPNV8gRtRkO53WJhiH8R/NLsJPcC3xtlNA7ADg==" length="3310902" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>On Air 1.2</title>
       <pubDate>Mon, 19 Oct 2026 17:41:00 +0000</pubDate>
       <sparkle:version>202610191245</sparkle:version>
