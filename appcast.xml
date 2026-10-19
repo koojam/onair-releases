@@ -5,5 +5,14 @@
     <link>https://github.com/koojam/onair-releases</link>
     <description>Updates for On Air</description>
     <language>en</language>
+    <item>
+      <title>On Air 1.2</title>
+      <pubDate>Mon, 19 Oct 2026 17:41:00 +0000</pubDate>
+      <sparkle:version>202610191245</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>On Air now updates itself: right-click the mic → Check for Updates…</li><li>Neon ON AIR sign and a new glass app icon</li><li>Clearer MIC / SYS messages</li><li>The DMG opens to a drag-to-Applications window</li></ul>]]></description>
+      <enclosure url="https://github.com/koojam/onair-releases/releases/download/v1.2/On-Air-1.2.dmg" sparkle:edSignature="/aZ8NwWg4c3FsXcUH1E+bXOqm4aCUDWBATMXIZznlkN5Qm0pVpJvJaxJliUUZ49kNB9by84LppKdf/o4M8R8Aw==" length="3290301" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
