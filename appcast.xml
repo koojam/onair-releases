@@ -6,6 +6,15 @@
     <description>Updates for On Air</description>
     <language>en</language>
     <item>
+      <title>On Air 1.4</title>
+      <pubDate>Thu, 12 Nov 2026 15:39:01 +0000</pubDate>
+      <sparkle:version>202611121037</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Every take now keeps its audio too: open it and press play, or save the transcript, the audio (.m4a) or both</li><li>Drag a take out of its bubble to drop its audio file into Finder, Mail or a chat</li><li>A take with no words but something to hear (music, a sound) is kept for its audio</li><li>Turn it off with Keep Audio with Takes in the right-click menu</li></ul>]]></description>
+      <enclosure url="https://github.com/koojam/onair-releases/releases/download/v1.4/On-Air-1.4.dmg" sparkle:edSignature="VLO2ZMUsBafv8T9e59709p3d3hdfAuiAApasTdJ08c1IswQRaw4ra4YqHRfU9FMaQLW9mYEiNqulmDwCYRjBDQ==" length="3384243" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>On Air 1.3.1</title>
       <pubDate>Mon, 19 Oct 2026 19:26:30 +0000</pubDate>
       <sparkle:version>202610191525</sparkle:version>
